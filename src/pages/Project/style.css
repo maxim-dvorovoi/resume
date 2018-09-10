@@ -3,17 +3,26 @@
 
 .Project {
   display: block;
-  margin-bottom: 432px;
+  margin-bottom: 55px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  margin: 54px 13px;
+}
+
+.fit {
+  height: 323px;
 }
 
 figure.snip1477 {
   font-family: 'Raleway', Arial, sans-serif;
   position: relative;
-  float: left;
   overflow: hidden;
-  margin: 30px 265px;
-  min-width: 430px;
-  max-width: 450px;
+  margin: 0;
+  min-width: 400px;
+  max-width: 420px;
   width: 100%;
   color: #ffffff;
   text-align: center;
